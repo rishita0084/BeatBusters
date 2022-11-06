@@ -1,2 +1,2 @@
 # BeatBusters
-A Dance studio website made with HTML and Tailwind CSS
+An imaginary dance studio website made with HTML and Tailwind CSS.
